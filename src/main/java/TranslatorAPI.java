@@ -34,6 +34,7 @@ public class TranslatorAPI {
             connection.setRequestProperty("Ocp-Apim-Subscription-Region", "brazilsouth");  // Exemplo: brazilsouth, westus
             connection.setRequestProperty("Content-Type", "application/json");
 
+
             // Permitir envio de dados na requisição
             connection.setDoOutput(true);
 
