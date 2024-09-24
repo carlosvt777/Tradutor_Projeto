@@ -56,6 +56,7 @@ public class TranslatorUI {
         panel.add(resultArea);
 
 
+
         // Ação do botão
         translateButton.addActionListener(new ActionListener() {
             @Override
