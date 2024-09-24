@@ -55,6 +55,7 @@ public class TranslatorUI {
         resultArea.setEditable(false); // Impede a edição pelo usuário
         panel.add(resultArea);
 
+
         // Ação do botão
         translateButton.addActionListener(new ActionListener() {
             @Override
