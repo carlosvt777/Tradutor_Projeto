@@ -48,6 +48,7 @@ public class TranslatorAPI {
             in.close();
 
 
+
             // Parsear o JSON de resposta
             JSONArray jsonArray = new JSONArray(response.toString());
             String translatedText = jsonArray.getJSONObject(0).getJSONArray("translations").getJSONObject(0).getString("text");
