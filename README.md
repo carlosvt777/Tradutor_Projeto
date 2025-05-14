@@ -22,12 +22,6 @@ Este projeto é um tradutor de textos desenvolvido em **Java**, utilizando a **M
 
 ---
 
-## 🔧 Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/carlosvt777/Tradutor_Projeto.git
-
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
